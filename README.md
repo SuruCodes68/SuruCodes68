@@ -1,27 +1,85 @@
-# Suranjana Aryal
+# Hi, I'm Suranjana Aryal 👋
 
-Master of Science in Business Analytics graduate focused on applying Machine Learning and AI to derive actionable insights from complex data. Proven ability to build predictive models and advanced NLP solutions using Transformers and LLMs.
+**MS in Business Analytics | Applied AI/ML Research | Python & NLP**
 
-* **Current Focus:** Developing projects utilizing Agentic AI principles, implementing A/B testing methodologies for model evaluation, and exploring advanced applications of Large Language Models in NLP tasks.
-* **Key Interests:** State-of-the-art NLP techniques (Transformer architectures), robust predictive modeling, and developing strategies for mitigating data sparsity and distribution skew (e.g., class imbalance).
-* **Connectivity:** Please connect via LinkedIn to discuss potential collaborations or roles.
+I'm a Business Analytics graduate from Saint Mary's College of
+California (4.0 GPA), interested in using machine learning and
+large language models to solve challenging data problems.
 
-## Technical Skills
+My work spans NLP research, synthetic data generation, predictive
+modeling, and building practical analytics tools. I especially
+enjoy projects where the quality of the data matters as much as
+the model itself.
 
-* **Programming Languages:** Python, SQL, R
-* **Machine Learning & AI:**
-    * *Libraries/Frameworks:* Scikit-learn, PyTorch, TensorFlow, Keras, Hugging Face Transformers (ELECTRA, BERT), Pandas, NumPy
-    * *Techniques:* NLP, Predictive Modeling, Recommender Systems, LLM Application (Qwen), Model Evaluation, Feature Engineering
-* **Data Analysis & Visualization:**
-    * *Tools:* Tableau, Matplotlib, Seaborn
-    * *Techniques:* Exploratory Data Analysis (EDA), Statistical Analysis, A/B Testing, Business Intelligence
-* **Databases & Data Management:** SQL Server (SSMS), Data Manipulation, Querying
-* **Cloud & Development Tools:** AWS (Foundational Services via AWS Academy), Git, GitHub, Google Colab, Jupyter Notebooks, RStudio
-* **Optimization (Familiarity):** AMPL
+## 🔬 Featured AI/ML Research
+
+### LLM-Driven Synthetic Data for Mathematical Misconception Classification
+
+**Graduate research | Co-author | 2025**
+
+Investigated how LLM-generated synthetic data could address
+extreme class imbalance in a dataset of students' written
+mathematical explanations.
+
+- **Research challenge:** Up to **14,800:1 class imbalance**
+  across 65 composite classification labels.
+- **Approach:** Used **Qwen2.5-7B-Instruct** for text
+  standardization and targeted synthetic data generation;
+  the research pipeline generated approximately **130,000
+  synthetic explanations**.
+- **Modeling:** Fine-tuned an **ELECTRA-base** transformer
+  classifier using PyTorch and Hugging Face.
+- **Reported validation results:** **99.00% accuracy**,
+  **0.99 weighted F1**, and **0.9441 macro F1** on
+  36,696 original student responses.
+
+The project strengthened my interest in dataset quality,
+experimental evaluation, and the limitations of model
+performance on underrepresented classes.
+
+**Technologies:** Python · PyTorch · Hugging Face · Qwen2.5 ·
+ELECTRA · NLP · Synthetic Data Generation
+
+## 🚀 Featured Projects
+
+### [AI Analytics Platform](https://github.com/SuruCodes68/ai-analytics-platform)
+
+An AI-powered analytics application focused on making
+exploratory data analysis and machine learning more accessible.
+
+**Technologies:** Python · Streamlit · scikit-learn · LangChain
+
+### [Data Science & Analytics Projects](https://github.com/SuruCodes68/data-science-and-analytics-projects)
+
+A collection of hands-on projects covering data cleaning,
+exploratory analysis, predictive modeling, and visualization.
+
+Includes Global Superstore sales and profitability analysis,
+with Python analysis notebooks and Power BI dashboard files.
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, SQL, R
+
+**Machine Learning & NLP:** scikit-learn, PyTorch, TensorFlow,
+Hugging Face Transformers, predictive modeling, text
+classification, synthetic data generation, model evaluation
+
+**Data Analysis:** pandas, NumPy, exploratory data analysis,
+feature engineering, statistical analysis, Matplotlib, Seaborn
+
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab,
+Streamlit, Tableau, Power BI
+
+## 🎓 Education
+
+**Master of Science in Business Analytics**  
+Saint Mary's College of California  
+**GPA: 4.0/4.0**
 
 ---
 
-## Certifications & Badges
+## 🏅 Certifications & Badges
 
 <p align="center">
   <img src="https://github.com/SuruCodes68/SuruCodes68/blob/main/MY%20aws-academy-cloud-foundations%20badge.png?raw=true" alt="AWS Academy Cloud Foundations Badge" width="150"/> 
