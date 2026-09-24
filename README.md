@@ -26,8 +26,8 @@ Master of Science in Business Analytics graduate (4.0 GPA) focused on **applied 
 
 ## Featured Projects
 
-- **[AI Analytics Platform](https://github.com/SuruCodes68/ai-analytics-platform)** — Standalone application for automated exploratory data analysis and machine learning. **Python · Streamlit · scikit-learn · LangChain**
-- **[Data Science & Analytics Projects](https://github.com/SuruCodes68/data-science-and-analytics-projects)** — Collection of Python analysis notebooks and dashboards, including **Global Superstore** sales and profitability analysis. **Python · pandas · Power BI**
+- **[AI Analytics Platform](https://github.com/SuruCodes68/ai-analytics-platform)** - Standalone application for automated exploratory data analysis and machine learning. **Python · Streamlit · scikit-learn · LangChain**
+- **[Data Science & Analytics Projects](https://github.com/SuruCodes68/data-science-and-analytics-projects)** - Collection of Python analysis notebooks and dashboards, including **Global Superstore** sales and profitability analysis. **Python · pandas · Power BI**
 
 ---
 
