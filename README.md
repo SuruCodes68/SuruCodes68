@@ -7,18 +7,23 @@ Master of Science in Business Analytics graduate (4.0 GPA) focused on **applied 
 
 ---
 
-## Featured AI/ML Research
+
+---
+
+## 🔬 Featured AI/ML Research
 
 ### LLM-Driven Synthetic Data for Mathematical Misconception Classification
 
-**Co-authored MSBA research · 2025**
+**Graduate Research | Co-author | 2025**
 
-> **14,800:1** class imbalance &nbsp;|&nbsp; **~130,000** synthetic explanations &nbsp;|&nbsp; **65** classification labels
+> **14,800:1** class imbalance | **~130,000** synthetic explanations | **65** classification labels
 >
-> **Validation:** **99.00% accuracy** · **0.99 weighted F1** · **0.9441 macro F1**
+> **Reported validation results:** **99.00% accuracy** | **0.99 weighted F1** | **0.9441 macro F1**
 
-- **Problem & approach:** Investigated extreme class imbalance in **36,696 original student responses**; used **Qwen2.5-7B-Instruct** to standardize mathematical text and generate targeted synthetic explanations for underrepresented classes.
-- **Model & evaluation:** Fine-tuned an **ELECTRA-base** text classifier with **PyTorch and Hugging Face**; evaluated validation performance and rare-class errors, and documented findings in a co-authored research report.
+- **Data generation:** Used Qwen2.5-7B-Instruct to standardize mathematical text and generate targeted synthetic explanations for underrepresented classes in a dataset of 36,696 original student responses.
+- **Modeling & evaluation:** Fine-tuned ELECTRA-base using PyTorch and Hugging Face; evaluated classification results, per-class errors, and limitations involving rare misconception classes.
+
+**Technologies:** Python | PyTorch | Hugging Face | Qwen2.5 | ELECTRA | NLP
 
 ---
 
