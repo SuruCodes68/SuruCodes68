@@ -1,81 +1,52 @@
-# Hi, I'm Suranjana Aryal 👋
+# Suranjana Aryal
 
-**MS in Business Analytics | Applied AI/ML Research | Python & NLP**
+Master of Science in Business Analytics graduate (4.0 GPA) focused on **applied AI/ML research, NLP, and building useful data products**. I work with Python, transformer models, and complex datasets to turn research questions into testable approaches and measurable results.
 
-I'm a Business Analytics graduate from Saint Mary's College of
-California (4.0 GPA), interested in using machine learning and
-large language models to solve challenging data problems.
+- **Current Focus:** LLM-generated synthetic data, transformer-based text classification, and rigorous model evaluation.
+- **Key Interests:** Data quality, rare-class learning, NLP, and practical machine learning systems.
 
-My work spans NLP research, synthetic data generation, predictive
-modeling, and building practical analytics tools. I especially
-enjoy projects where the quality of the data matters as much as
-the model itself.
+---
 
-## 🔬 Featured AI/ML Research
+## Featured AI/ML Research
 
 ### LLM-Driven Synthetic Data for Mathematical Misconception Classification
 
-**Graduate research | Co-author | 2025**
+**Co-authored MSBA research · 2025**
 
-Investigated how LLM-generated synthetic data could address
-extreme class imbalance in a dataset of students' written
-mathematical explanations.
+> **14,800:1** class imbalance &nbsp;|&nbsp; **~130,000** synthetic explanations &nbsp;|&nbsp; **65** classification labels
+>
+> **Validation:** **99.00% accuracy** · **0.99 weighted F1** · **0.9441 macro F1**
 
-- **Research challenge:** Up to **14,800:1 class imbalance**
-  across 65 composite classification labels.
-- **Approach:** Used **Qwen2.5-7B-Instruct** for text
-  standardization and targeted synthetic data generation;
-  the research pipeline generated approximately **130,000
-  synthetic explanations**.
-- **Modeling:** Fine-tuned an **ELECTRA-base** transformer
-  classifier using PyTorch and Hugging Face.
-- **Reported validation results:** **99.00% accuracy**,
-  **0.99 weighted F1**, and **0.9441 macro F1** on
-  36,696 original student responses.
+- **Problem & approach:** Investigated extreme class imbalance in **36,696 original student responses**; used **Qwen2.5-7B-Instruct** to standardize mathematical text and generate targeted synthetic explanations for underrepresented classes.
+- **Model & evaluation:** Fine-tuned an **ELECTRA-base** text classifier with **PyTorch and Hugging Face**; evaluated validation performance and rare-class errors, and documented findings in a co-authored research report.
 
-The project strengthened my interest in dataset quality,
-experimental evaluation, and the limitations of model
-performance on underrepresented classes.
+---
 
-**Technologies:** Python · PyTorch · Hugging Face · Qwen2.5 ·
-ELECTRA · NLP · Synthetic Data Generation
+## Featured Projects
 
-## 🚀 Featured Projects
+- **[AI Analytics Platform](https://github.com/SuruCodes68/ai-analytics-platform)** — Standalone application for automated exploratory data analysis and machine learning. **Python · Streamlit · scikit-learn · LangChain**
+- **[Data Science & Analytics Projects](https://github.com/SuruCodes68/data-science-and-analytics-projects)** — Collection of Python analysis notebooks and dashboards, including **Global Superstore** sales and profitability analysis. **Python · pandas · Power BI**
 
-### [AI Analytics Platform](https://github.com/SuruCodes68/ai-analytics-platform)
+---
 
-An AI-powered analytics application focused on making
-exploratory data analysis and machine learning more accessible.
+## Technical Skills
 
-**Technologies:** Python · Streamlit · scikit-learn · LangChain
+- **Programming Languages:** Python, SQL, R
+- **Machine Learning & AI:**
+  - *Libraries/Frameworks:* scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers, pandas, NumPy
+  - *Techniques:* NLP, transformer fine-tuning, synthetic data generation, text classification, predictive modeling, feature engineering, model evaluation
+- **Data Analysis & Visualization:**
+  - *Tools:* Tableau, Power BI, Matplotlib, Seaborn
+  - *Techniques:* Exploratory data analysis, statistical analysis, data cleaning, dashboard development
+- **Data & Development Tools:** PostgreSQL, REST APIs, Git/GitHub, Google Colab, Jupyter Notebook, Streamlit
+- **Cloud Foundations:** AWS Academy Cloud Foundations
 
-### [Data Science & Analytics Projects](https://github.com/SuruCodes68/data-science-and-analytics-projects)
+---
 
-A collection of hands-on projects covering data cleaning,
-exploratory analysis, predictive modeling, and visualization.
-
-Includes Global Superstore sales and profitability analysis,
-with Python analysis notebooks and Power BI dashboard files.
-
-## 🛠️ Technical Skills
-
-**Programming:** Python, SQL, R
-
-**Machine Learning & NLP:** scikit-learn, PyTorch, TensorFlow,
-Hugging Face Transformers, predictive modeling, text
-classification, synthetic data generation, model evaluation
-
-**Data Analysis:** pandas, NumPy, exploratory data analysis,
-feature engineering, statistical analysis, Matplotlib, Seaborn
-
-**Tools:** Git, GitHub, Jupyter Notebook, Google Colab,
-Streamlit, Tableau, Power BI
-
-## 🎓 Education
+## Education
 
 **Master of Science in Business Analytics**  
-Saint Mary's College of California  
-**GPA: 4.0/4.0**
+Saint Mary's College of California · **GPA: 4.0/4.0**
 
 ---
 
