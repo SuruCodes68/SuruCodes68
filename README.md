@@ -7,9 +7,6 @@ Master of Science in Business Analytics graduate (4.0 GPA) focused on **applied 
 
 ---
 
-
----
-
 ## 🔬 Featured AI/ML Research
 
 ### LLM-Driven Synthetic Data for Mathematical Misconception Classification
